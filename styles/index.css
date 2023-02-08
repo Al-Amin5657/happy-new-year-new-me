@@ -62,3 +62,31 @@
 .success-img {
     width: 100%;
 }
+
+.my-plans-section {
+    text-align: center;
+}
+
+.my-plans {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.plan-div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.plan-header {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plan-detail {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
