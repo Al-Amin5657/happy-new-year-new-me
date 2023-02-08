@@ -1,0 +1,38 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    background-image: url(../images/banner/banner1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding-top: 120px;
+    padding-right: 150px;
+    padding-bottom: 120px;
+}
+
+.header {
+    color: #151414;
+    font-weight: 600;
+    font-size: 65px;
+    margin-bottom: 0;
+
+}
+
+.header-detail {
+    color: #444343;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    background-color: coral;
+    border: 0;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
