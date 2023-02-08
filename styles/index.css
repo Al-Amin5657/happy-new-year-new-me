@@ -36,3 +36,29 @@
     border-radius: 10px;
 
 }
+
+.failures-section {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    margin: 130px 80px;
+}
+
+.failures-detail {
+    text-align: left;
+}
+
+.failures-header {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.list-item {
+    list-style: none;
+}
+
+.success-img {
+    width: 100%;
+}
