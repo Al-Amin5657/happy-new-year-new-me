@@ -2,6 +2,8 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+/* header section styles */
+
 .container {
     background-image: url(../images/banner/banner1.png);
     background-size: cover;
@@ -37,6 +39,8 @@
 
 }
 
+/* failures and success section styles */
+
 .failures-section {
     display: flex;
     gap: 60px;
@@ -62,6 +66,8 @@
 .success-img {
     width: 100%;
 }
+
+/* my plans section styles */
 
 .my-plans-section {
     text-align: center;
@@ -91,6 +97,8 @@
     font-size: 25px;
 }
 
+/* linear gradient with image styles */
+
 .images {
     width: 1140px;
     height: 300px;
@@ -102,4 +110,68 @@
     ;
     background-blend-mode: overlay;
 
+}
+
+.linear-section {
+    padding: 40px 35px;
+}
+
+.watch-detail {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+
+}
+
+.btn-call-now {
+    width: 160px;
+    height: 64px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0;
+}
+
+/* footer section styles */
+
+.footer-section {
+    display: flex;
+    background: #151414;
+    padding: 100px 250px;
+    gap: 40px;
+}
+
+.footer-header {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer-detail {
+    color: #FFFFFF;
+}
+
+.footer-email {
+    color: white;
+}
+
+.footer-phone {
+    color: white
+}
+
+.subscribe {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.email {
+    width: 200px;
+    height: 59px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
 }
